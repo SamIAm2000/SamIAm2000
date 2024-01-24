@@ -1,4 +1,6 @@
 ### Hi there 👋
+🌱 I'm interested in software engineering, creative technologies, and VR/AR!
+😄 My pronouns are they/them!
 
 <!--
 **SamIAm2000/SamIAm2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
