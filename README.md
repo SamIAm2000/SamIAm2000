@@ -3,6 +3,9 @@
 
 😄 My pronouns are they/them!
 
+### Checkout what I'm currently working on:
+- Developing automated ice layer tracing in virtual reality with Unity3D on a project called [VISER](https://github.com/joelsalzman/polAR).
+
 ### Checkout some of the cool things I've made:
 - A virtual, interactive desktop pet called [Pigeon Pal](https://github.com/yearofglad/pigeon-pal)
 
