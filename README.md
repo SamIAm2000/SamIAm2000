@@ -3,10 +3,10 @@
 
 😄 My pronouns are they/them!
 
-### Checkout what I'm currently working on 🤩:
+### Check out what I'm currently working on 🤩:
 - 🌱 [Touching grass in virtual reality](https://github.com/SamIAm2000/touchinggrass)
 
-### Checkout some of the cool things I've made/worked on in the past 🤯:
+### Check out some of the cool things I've made/worked on in the past 🤯:
 - A robot-shooting VR game you can play with your brain called [PEW](https://github.com/qaziashikin/PEW) (And won 2nd place at the 2024 Columbia Neureality Hackathon)
 
 - An [AI chatbot](https://github.com/kynsity/DivHacks2023_project) that helps with CS advising at Columbia (And won 1st prize at the 2023 Columbia DivHacks Hackathon!)
