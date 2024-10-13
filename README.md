@@ -7,9 +7,9 @@
 ### Check out some of the cool things I've made/worked on in the past 🤯:
 - A robot-shooting VR game you can play with your brain waves called [PEW](https://github.com/qaziashikin/PEW) (And won 2nd place at the 2024 Columbia Neureality Hackathon)
 
-- An [AI chatbot](https://github.com/kynsity/DivHacks2023_project) that helps with CS advising at Columbia (And won 1st prize at the 2023 Columbia DivHacks Hackathon)
-
 - A [sonification program](https://github.com/SamIAm2000/MIDI_file_thing) written for a giant 6-paneled touchscreen that turns pixels from paintings into sound (Won a $500 grant from the Barnard Computational Science Center)
+
+- A program that [deconstructs your face and puts it into spinning windows](https://github.com/SamIAm2000/viz_wall_2024) (Won another $500 grant from the Barnard Computational Science Center)
 
 - ["Electric Meat"](https://github.com/SamIAm2000/silicone-skin-sensing) - Interactive silicon skin that screams at varying volumes depending on how hard you press on it
 
