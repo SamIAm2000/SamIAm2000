@@ -13,6 +13,7 @@
 
 - ["Electric Meat"](https://github.com/SamIAm2000/silicone-skin-sensing) - Interactive silicon skin that screams at varying volumes depending on how hard you press on it
 
+- ["Pigeon Pal"](https://github.com/yearofglad/pigeon-pal) - Your friendly desktop pet pigeon
 
 
 <!--
