@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌻 I'm interested in software engineering, creative technologies, and VR/AR!
+🌻 I'm interested in software engineering, creative technology, and VR/AR!
 
 ### Check out what I'm currently working on 🤩:
 - 🌱 [Touching grass in virtual reality](https://github.com/SamIAm2000/touchinggrass)
