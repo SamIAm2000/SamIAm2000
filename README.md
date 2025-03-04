@@ -1,8 +1,8 @@
 ### Hi there 👋
-🌻 I'm interested in software engineering, creative technology, and VR/AR!
+I'm interested in software engineering, creative technology, and VR/AR!
 ### Check out what I'm currently working on 🤩:
-- 🌱 [Touching grass in virtual reality](https://github.com/SamIAm2000/touchinggrass)
 - 🐈 Adding [bongo cat](https://github.com/SamIAm2000/zmk) to keyboard oled displays using ZMK firmware
+- 🌱 [Touching grass in virtual reality](https://github.com/SamIAm2000/touchinggrass)
 
 ### Check out some of the cool things I've made/worked on in the past 🤯:
 - A robot-shooting VR game you can play with your brain waves called [PEW](https://github.com/qaziashikin/PEW)
@@ -11,6 +11,7 @@
 - ["Electric Meat"](https://github.com/SamIAm2000/silicone-skin-sensing) - Interactive silicon skin that screams at varying volumes depending on how hard you press on it
 - ["Pigeon Pal"](https://github.com/yearofglad/pigeon-pal) - Your friendly desktop pet pigeon
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiam2000&layout=compact)
 
 <!--
 **SamIAm2000/SamIAm2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
