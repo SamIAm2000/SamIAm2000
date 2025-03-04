@@ -11,7 +11,7 @@ I'm interested in software engineering, creative technology, and VR/AR!
 - ["Electric Meat"](https://github.com/SamIAm2000/silicone-skin-sensing) - Interactive silicon skin that screams at varying volumes depending on how hard you press on it
 - ["Pigeon Pal"](https://github.com/yearofglad/pigeon-pal) - Your friendly desktop pet pigeon
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiam2000&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samiam2000&layout=compact&langs_count=8)
 
 <!--
 **SamIAm2000/SamIAm2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
