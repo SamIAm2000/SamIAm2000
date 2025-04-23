@@ -1,6 +1,7 @@
 ### Hi there 👋
 I'm interested in software engineering, creative technology, and VR/AR!
 ### Check out what I'm currently working on 🤩:
+- 🎱 Building [trackballs](https://github.com/SamIAm2000/ballin-rp2040-trackball)
 - 🐈 Adding [bongo cat](https://github.com/SamIAm2000/zmk) to keyboard oled displays using ZMK firmware
 - 🌱 [Touching grass in virtual reality](https://github.com/SamIAm2000/touchinggrass)
 
