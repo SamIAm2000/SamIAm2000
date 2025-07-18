@@ -1,11 +1,13 @@
 ### Hi there 👋
+I'm a software engineer at Gradient Health. 
+
 I'm interested in software engineering, creative technology, and VR/AR!
 ### Check out what I'm currently working on 🤩:
 - 🎱 Building [trackballs](https://github.com/SamIAm2000/ballin-rp2040-trackball)
 - 🐈 Adding [bongo cat](https://github.com/SamIAm2000/zmk) to keyboard oled displays using ZMK firmware
 - 🌱 [Touching grass in virtual reality](https://github.com/SamIAm2000/touchinggrass)
 
-### Check out some of the cool things I've made/worked on in the past 🤯:
+### Check out some of the things I've made/worked on in the past 🤯:
 - A robot-shooting VR game you can play with your brain waves called [PEW](https://github.com/qaziashikin/PEW)
 - A [sonification program](https://github.com/SamIAm2000/MIDI_file_thing) written for a giant 6-paneled touchscreen that turns pixels from paintings into sound
 - A program that [deconstructs your face and puts it into spinning windows on your desktop](https://github.com/SamIAm2000/viz_wall_2024)
